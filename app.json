@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Blank Template",
+    "slug": "jeketi-dashboard",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  },
+  "android": {
+    "googleServicesFile": "./google-services.json",
+    "package": "com.f4devc.jeketi_dashboard",
+    "versionCode": 1
+  }
+}
