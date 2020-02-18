@@ -1,4 +1,4 @@
-import { INCREMENT, DECREMENT } from '../ActionTypes'
+import { INCREMENT, DECREMENT } from '../../ActionTypes'
 const defaultState = {
   counter: 0
 }
